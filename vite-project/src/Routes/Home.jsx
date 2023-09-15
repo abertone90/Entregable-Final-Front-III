@@ -4,7 +4,10 @@ import { useState } from "react";
 import Card from "../Components/Card";
 import { useParams } from "react-router-dom";
 
+
+
 const Home = () => {
+   
   const [dentists, setDentists] = useState([]);
   const params = useParams();
 

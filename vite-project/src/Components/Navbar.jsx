@@ -9,13 +9,13 @@ const Navbar = () => {
     <nav>
       <ul>
         <li>
-          <Link to="/">Homeeee</Link>
+          <Link to="/">Inicio</Link>
         </li>
         <li>
-          <Link to="/contact">Contact</Link>
+          <Link to="/contact">Contactenos</Link>
         </li>
         <li>
-          <Link to="/favs">Favs</Link>
+          <Link to="/favs">Favorito</Link>
         </li>
       </ul>
       {/* Deberan implementar ademas la logica para cambiar de Theme con el button */}

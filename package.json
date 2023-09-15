@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "switch": "^0.0.0"
+  }
+}

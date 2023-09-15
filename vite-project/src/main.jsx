@@ -11,7 +11,6 @@ import './index.css'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  
     <BrowserRouter>
     <Routes>
       <Route path="/" element={<App/>}>
@@ -22,5 +21,4 @@ ReactDOM.createRoot(document.getElementById('root')).render(
       </Route>
     </Routes>
     </BrowserRouter>
-
 )
