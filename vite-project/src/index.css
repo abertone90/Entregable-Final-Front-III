@@ -89,6 +89,12 @@ footer > p{
   margin: 0;
   padding-top: 0.7rem;
 }
+.footerList {
+  display: flex;
+  list-style: none;
+
+
+}
 
 form{
   display: flex;
@@ -155,12 +161,4 @@ tr:nth-child(even) {
 }
 
 
-#Dark a{
-  color: white;
-}
-
-#Light {
-  background-color: #f2f4f6;
-  color:#0d3f67;
-}
 
