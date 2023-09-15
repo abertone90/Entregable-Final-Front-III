@@ -13,7 +13,7 @@ const Home = () => {
 
   return (
     <main className={state.theme === "light" ? "light" : "dark"}>
-      <h1>Home</h1>
+   
       <div className="card-grid">
         {Array.isArray(state.data) &&
           state.data.map((dentist) => (
